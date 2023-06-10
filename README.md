@@ -28,7 +28,7 @@ To run the ANPR system, you need to have the following installed:
 1. Clone the repository to your local machine or download the source code as a ZIP file.
 
     ```bash
-    git clone https://github.com/latif-muhammad/ANRP
+    git clone https://github.com/latif-muhammad/ANRP.git
     ```
     
 2. Navigate to the project directory.
@@ -68,7 +68,7 @@ This ANPR system was built using Python, OpenCV, EasyOCR, and Django, incorporat
 
 ## Author
 
-- Your Muhammmad Latif
+- Muhammmad Latif
 - GitHub: [GitHub Profile](https://github.com/latif-muhammad)
 
 
