@@ -11,7 +11,7 @@ This project is an Automatic Number Plate Recognition (ANPR) system built using 
 
 - Vehicle number plate detection and extraction using computer vision techniques with OpenCV.
 - Optical Character Recognition (OCR) for number plate recognition using EasyOCR.
-- Support for processing images or real-time video streams.
+- Support for processing images.
 - User-friendly web interface built with Django and HTML for easy interaction with the ANPR system.
 - Storage and retrieval of processed number plate data using a backend database.
 
