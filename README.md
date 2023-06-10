@@ -3,8 +3,6 @@ AI project
 
 # Automatic Number Plate Recognition (ANPR) System
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 This project is an Automatic Number Plate Recognition (ANPR) system built using Python, OpenCV, EasyOCR, and Django. It allows for the detection, extraction, and recognition of vehicle number plates from images or video streams.
 
 ## Features
@@ -63,5 +61,14 @@ To run the ANPR system, you need to have the following installed:
 5. Processed number plate data will be searched in the backend database for a match.
 6. If found details will be fetched and displayed
 7. You can ass new details to the database
+
+## Acknowledgments
+
+This ANPR system was built using Python, OpenCV, EasyOCR, and Django, incorporating techniques from computer vision and optical character recognition. It was developed as a demonstration project for AI Course, to showcase the capabilities of ANPR technology.
+
+## Author
+
+- Your Muhammmad Latif
+- GitHub: [Your GitHub Profile](https://github.com/latif-muhammad)
 
 
