@@ -29,6 +29,6 @@ To run the ANPR system, you need to have the following installed:
 
 1. Clone the repository to your local machine or download the source code as a ZIP file.
 
-  ```bash
-  git clone https://github.com/latif-muhammad/ANRP
-  ```
+    ```bash
+    git clone https://github.com/latif-muhammad/ANRP
+    ```
