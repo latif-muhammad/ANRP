@@ -32,3 +32,9 @@ To run the ANPR system, you need to have the following installed:
     ```bash
     git clone https://github.com/latif-muhammad/ANRP
     ```
+    
+2. Navigate to the project directory.
+
+    ```bash
+    cd ANRP
+    ```
