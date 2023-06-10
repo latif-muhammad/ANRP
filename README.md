@@ -3,7 +3,7 @@ AI project
 
 # Automatic Number Plate Recognition (ANPR) System
 
-This project is an Automatic Number Plate Recognition (ANPR) system built using Python, OpenCV, EasyOCR, and Django. It allows for the detection, extraction, and recognition of vehicle number plates from images or video streams.
+This project is an Automatic Number Plate Recognition (ANPR) system built using Python, OpenCV, EasyOCR, and Django. It allows for the detection, extraction, and recognition of vehicle number plates from images.
 
 ## Features
 
@@ -69,6 +69,6 @@ This ANPR system was built using Python, OpenCV, EasyOCR, and Django, incorporat
 ## Author
 
 - Your Muhammmad Latif
-- GitHub: [Your GitHub Profile](https://github.com/latif-muhammad)
+- GitHub: [GitHub Profile](https://github.com/latif-muhammad)
 
 
