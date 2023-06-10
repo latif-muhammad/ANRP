@@ -54,5 +54,14 @@ To run the ANPR system, you need to have the following installed:
     ```bash
     http://localhost:8000
     ```
+## Usage
+
+1. Upload an image (Sample images are given), write the name of the image in the text Text field.
+2. The system will detect and extract number plates from the input.
+3. The extracted number plate regions will be sent to EasyOCR for character recognition.
+4. Recognized number plate information will be displayed on the web interface.
+5. Processed number plate data will be searched in the backend database for a match.
+6. If found details will be fetched and displayed
+7. You can ass new details to the database
 
 
