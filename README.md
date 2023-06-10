@@ -38,3 +38,17 @@ To run the ANPR system, you need to have the following installed:
     ```bash
     cd ANRP
     ```
+3. Install Prerequisites
+
+4. Start the Django development server.
+    ```bash
+    python manage.py runserver
+    ```
+
+5. Access the ANPR system in your web browser.
+
+ ```bash
+    http://localhost:8000
+    ```
+
+
