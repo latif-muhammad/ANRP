@@ -68,7 +68,7 @@ This ANPR system was built using Python, OpenCV, EasyOCR, and Django, incorporat
 
 ## Author
 
-- Muhammmad Latif
+- Muhammad Latif
 - GitHub: [GitHub Profile](https://github.com/latif-muhammad)
 
 
