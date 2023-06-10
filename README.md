@@ -46,9 +46,8 @@ To run the ANPR system, you need to have the following installed:
     ```
 
 5. Access the ANPR system in your web browser.
-
  ```bash
     http://localhost:8000
-    ```
+ ```
 
 
