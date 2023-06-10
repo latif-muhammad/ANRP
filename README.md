@@ -39,7 +39,7 @@ To run the ANPR system, you need to have the following installed:
     cd ANRP
     ```
 3. Install Prerequisites
-    ``bash
+    ```bash
     pip install opencv-python
     pip install easyocr
     pip install django
