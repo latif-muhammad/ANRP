@@ -39,6 +39,11 @@ To run the ANPR system, you need to have the following installed:
     cd ANRP
     ```
 3. Install Prerequisites
+    ``bash
+    pip install opencv-python
+    pip install easyocr
+    pip install django
+    ```
 
 4. Start the Django development server.
     ```bash
