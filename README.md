@@ -1,5 +1,5 @@
 # ANRP
-AI project
+Automatic Number Plate Recognition (ANPR) System
 
 # Automatic Number Plate Recognition (ANPR) System
 
